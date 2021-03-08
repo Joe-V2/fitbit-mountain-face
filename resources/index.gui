@@ -1,5 +1,5 @@
 <svg class="background">
-  <!-- set backgroun image -->
+  <!-- set background image -->
   <image id="background-image" href="images/mountain.png" />
   
   <!-- heart beat information -->
@@ -10,6 +10,65 @@
   <text id="battery-label" />
   <image id="battery" href="images/battery.png" />
   
+<!--mountains-->
+  
+  <text id="mountains" />
+  <image id="mountains" href="images/mountains.png" />
+
+
+ <!-- moon phase icons -->
+ <!-- full moon-->
+  <text id="moon-full" />
+  <image id="moon-f" href="images/moons/moonfull.png" />
+
+<!--waxing gibbous-->
+  <text id="moon-wxg" />
+  <image id="moon-wxg" href="images/moons/moonwxg.png" />
+
+
+<!--waning gibbous-->
+  <text id="moon-wng" />
+  <image id="moon-wng" href="images/moons/moonwng.png" />
+
+
+<!--waxing crescent-->
+  <text id="moon-wxc" />
+  <image id="moon-wxc" href="images/moons/moonwxc.png" />
+
+
+<!--waning crescent-->
+  <text id="moon-wnc" />
+  <image id="moon-wnc" href="images/moons/moonwnc.png" />
+
+<!--first quarter-->
+  
+  <text id="moon-fq" />
+  <image id="moon-fq" href="images/moons/moonfq.png" />
+
+<!--third quarter-->>
+  
+  <text id="moon-tq" />
+  <image id="moon-tq" href="images/moons/moontq.png" />
+
+
+<!--blue moon-->>
+  
+  <text id="moon-bm" />
+  <image id="moon-bm" href="images/moons/moonbm.png" />
+
+
+<!-- skies-->
+<!--day-->>
+  
+  <text id="day" />
+  <image id="sky-d" href="images/sky/sky-d.png" />
+
+<!--night-->>
+  
+  <text id="night" />
+  <image id="sky-d" href="images/sky/sky-n.png" />
+
+
   <!-- date and time information-->
   <text id="clock-label" />
   <text id="date-label" />
